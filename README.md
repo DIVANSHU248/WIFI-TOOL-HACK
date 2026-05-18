@@ -1,4 +1,4 @@
-,# ⚡ WIFI-CRACKER v5.0 ⚡
+# ⚡ WIFI-CRACKER v5.0 ⚡
 
 This is a terminal-based Wi-Fi security testing and simulation tool written in Python. 
 
