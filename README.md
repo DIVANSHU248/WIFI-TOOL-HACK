@@ -22,7 +22,7 @@ pkg install git
 
 git clone https://github.com/DIVANSHU248/WIFI-TOOL-HACK.git
 
-cd WifiTool
+cd WIFI-TOOL-HACK
 
 python wifiprank.py
 
