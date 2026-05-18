@@ -1,0 +1,8 @@
+{
+  "tool_name": "WIFI-CRACKER",
+  "version": "5.0",
+  "default_interface": "wlan0mon",
+  "scan_duration": 2.5,
+  "animation_speed": 0.08,
+  "max_wordlist_attempts": 25
+}
