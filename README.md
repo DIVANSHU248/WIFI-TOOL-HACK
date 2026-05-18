@@ -10,10 +10,16 @@ This is a terminal-based Wi-Fi security testing and simulation tool written in P
 
 ## 🛠️ Requirements
 - Termux App
-- Python 3
+- Python 3 
 
-## 💻 How to Run
+## 💾 how to install && 💻 how to run 
 ```bash
+pkg update && pkg upgrade -y
+
+pkg install python3 
+
+pkg install git
+
 git clone https://github.com/DIVANSHU248/WIFI-TOOL-HACK.git
 
 cd WifiTool
