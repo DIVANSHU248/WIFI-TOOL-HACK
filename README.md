@@ -14,6 +14,9 @@ This is a terminal-based Wi-Fi security testing and simulation tool written in P
 
 ## 💻 How to Run
 ```bash
+git clone https://github.com/DIVANSHU248/WIFI-TOOL-HACK.git
+
 cd WifiTool
+
 python wifiprank.py
 
